@@ -18,7 +18,7 @@ I think even that question has already missed the point.  Why did I start Bazaar
 
 Although I did't have to stay there.  I can still learn.  I can still grow.  I can still *care*.  So I decided to finish Bazaar although I would argue that there is no true finish line.  I wanted to see it through not to try to somehow capture an audience that was taken from me by my own insecurities but to complete it for the sake of my original goal, to learn.  Nowadays its called [Outlet](https://github.com/jardon/outlet) and its lightyears ahead of where Bazaar was when I took my first stab at it.  And to get to where it is today, I had to get to where I wasn't many times over.
 
-Sure, Outlet at times resembles the finest, most authentic italian cuisine, but without trying and doing things wrong a bunch, I can't improve.  Without experience, learning is only ever theoretical.  I heard a quote the other day in a video from [Make with Miles](https://www.youtube.com/@MakeWithMiles) that I thought was profound:
+Sure, Outlet at times resembles the finest, most authentic italian cuisine, but without trying and doing things wrong a bunch, I can't improve.  Without experience, learning is only ever theoretical.  I heard a quote the other day in a [video](https://youtu.be/0Nr-EELXcms?si=ZtygNaMcLHOVjwe4) from [Make with Miles](https://www.youtube.com/@MakeWithMiles) that I thought was profound:
 
 > "Be prolific rather than excellent.  There's no right way to make things.  There's only the way that's taking the most advantage of what you already have."
 > - Ben Uyeda
@@ -30,6 +30,6 @@ To name a few:
 - State caching and management in Flutter
 - Dart isolates for multithreading and asynhronous tasks
 
-So maybe one day, learning won't be necessary, and we'll all just be grateful we're not extinct.  Even if my skills no longer mattered, would I regret the time spent collecting them?  So far, there's very little if anything that I regret knowing.  My life is rarely better from being more ignorant and less competent. So I'll go do something that has been done before -- write something that has been written before.  I'll push my own boundaries instead of looking at them with apathy.  I'll pursue excellence so that when it's needed, I can take advantage of what I already have.
+So maybe one day, learning won't be necessary, and we'll all just be grateful we're not extinct.  Even if my skills no longer mattered, would I regret the time spent collecting them?  So far, there's very little if anything that I regret knowing.  My life is rarely better from being more ignorant and less competent. So I'll go do something that has been done before -- write something that has been written before.  I'll push my own boundaries instead of approaching them with apathy.  I'll pursue excellence so that when it's needed, I can take advantage of what I already have.
 
 You should too.
