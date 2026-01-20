@@ -1,7 +1,6 @@
 +++
 title = 'In the AI World, Learning is Still Worth It'
-date = 2025-12-16T12:53:13-06:00
-draft = true
+date = 2026-01-20T17:03:13-06:00
 +++
 
 My resume says that I am a software engineer.  In practice, the many hats I've worn feel like an amalgamation of everything but.  I have two bachelor's degrees (don't ask), but long past were the days where I really felt like I excelled at my craft.  Always writing some overly-practical, never-exceptional Python.  Always frustrated with some dreadfully-cobbled-together Node application thats only ever just good enough.  Now, I don't think this is from a lack of ability or education.  While no one would ever accuse me of being a star student, I did very much excel at data structures and the like. But somewhere along the way I traded pride for apathy.
